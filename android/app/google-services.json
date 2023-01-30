@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "559825142677",
+    "firebase_url": "https://tabib-14438.firebaseio.com",
+    "project_id": "tabib-14438",
+    "storage_bucket": "tabib-14438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559825142677:android:fb84e1bbb49fc1a8992c9c",
+        "android_client_info": {
+          "package_name": "com.example.hossam_test_mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559825142677-6eo50e5sugcno36h4aorlj22vjn5s06f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hossam_test_mvvm",
+            "certificate_hash": "82c988c5ac5d00f29cc4a3e6f96ea5903e1a56c1"
+          }
+        },
+        {
+          "client_id": "559825142677-d6v46sulnicpofcur5v6cir05ehqqd1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDndZVb-ZVNNpQUSf2BWxiSn0Xzt_imxj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559825142677-d6v46sulnicpofcur5v6cir05ehqqd1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559825142677:android:8b03fc75c39888e2992c9c",
+        "android_client_info": {
+          "package_name": "com.hossamattia.tabib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559825142677-2hmqsu9drgvp0dmq6bjapm3euf2bsddb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hossamattia.tabib",
+            "certificate_hash": "82c988c5ac5d00f29cc4a3e6f96ea5903e1a56c1"
+          }
+        },
+        {
+          "client_id": "559825142677-akep9phf4a65cvpo9obnor5ps5lb40hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hossamattia.tabib",
+            "certificate_hash": "486959410b959c17de1632d89b00cf86dcbf3253"
+          }
+        },
+        {
+          "client_id": "559825142677-fa27eco4ghcqh83demm7ier0q1nov94s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hossamattia.tabib",
+            "certificate_hash": "f2592ebd89c8893da934603802c247d49b45d119"
+          }
+        },
+        {
+          "client_id": "559825142677-ij16uk7m0i4picfdi7k2k7voisbeu9bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hossamattia.tabib",
+            "certificate_hash": "2451ab3e8f0fb85a0e01f10c75023cf53e75cb39"
+          }
+        },
+        {
+          "client_id": "559825142677-vpa3o9ice6v5q1j29qgebk9uvvda8ab0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hossamattia.tabib",
+            "certificate_hash": "b935f621e298d712a548277d154a31111d8e4e36"
+          }
+        },
+        {
+          "client_id": "559825142677-d6v46sulnicpofcur5v6cir05ehqqd1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDndZVb-ZVNNpQUSf2BWxiSn0Xzt_imxj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559825142677-d6v46sulnicpofcur5v6cir05ehqqd1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6814600812998971~8317933630"
+    }
+  ],
+  "configuration_version": "1"
+}
